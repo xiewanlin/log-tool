@@ -12,7 +12,7 @@ public class SensitiveDataConverterTest {
 
   public static void main(String[] args) {
     String apolloKey1 = "log.sensitive.mobile";
-    String apolloKey2 = "log.sensitive.idcards";
+    String apolloKey2 = "log.sensitive.idcard";
     String apolloKey3 = "log.sensitive.bankcard";
     String apolloKey4 = "log.sensitive.name";
     String[] v1 = {"phoneNum", "mobile", "phoneNumber", "phone", "mobileTel", "phonecode"};
